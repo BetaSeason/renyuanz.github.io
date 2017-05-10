@@ -6,16 +6,30 @@ permalink: /resume
 
 ### Renyuan Zou （邹任远）
 
-An [intermediate](https://www.quora.com/Whats-the-difference-between-a-Junior-Intermediate-Senior-developer) full-stack web developer using Ruby or PHP to write server-side APIs and Javascript to build client-side user interface. Building user-friendly applications is always my design and development objective.
+---
 
-### Education
+An intermediate full-stack web developer using Ruby (on Rails) or PHP (Laravel/Symfony) to write server-side APIs and Javascript to build client-side user interface. I have a prominent experience in analyzing the business needs and solving the problems.
 
-- Master, MIAGE (or [Business Informatics](https://en.wikipedia.org/wiki/Master_of_Business_Informatics)), University of Aix-Marseille, France.
-- [Licence](https://en.wikipedia.org/wiki/Licence_Master_Doctorat), Economics and management / 1st year of MIAGE, University of Aix-Marseille, France.
+My past projects and my career show my serious and responsible. Curious, persevering, with strong responsibility and team conscious, and with a capacity to adapt, I have a very strong willingness to be involved in new projects.
 
-### Recent Experience
+Building user-friendly applications is always my design and development objective.
 
-**[RendezvousCheznous](https://www.rendezvouscheznous.com/)**, Junior Web Developer
+### Experience
+
+---
+
+**ImmoOne**, Full stack Developer (Laravel + Vue.js)
+
+*Mar. 2017 - present*
+
+Aix-en-Provence, France
+
+- Implementation an activity feed timeline with querying optimization.
+- Using Vue.js to build a mailing system interface.
+
+---
+
+**[RendezvousCheznous](https://www.rendezvouscheznous.com/)**, Web Developer
 
 *Nov. 2015 - Oct. 2016*
 
@@ -23,17 +37,18 @@ Marseille, France
 
 - Server-side (PHP Symfony 2):
   - Oauth2 integration of Facebook and Google accounts for users.
-  - Geocoding micro-service using Google API and implementation a cache system for geocoded data.
+  - Geocoding micro-service using Google API and a cache system implementation for geocoded data.
   - Multi-pricing for products(tourism and travel-related services) on the platform.
   - Discount on products and promotion code integration.
   - Admin interface updates for ease-use and custom querying.
 - Client-side (HTML5 / CSS3 / jQuery):
   - Refactoring Javascript code for Business logic heavy pages, like products searching page, product information page, payment process page.
-  - Participated the responsive interface rework of the whole project.
-  - Updating the landing page of a new design.
+  - Participated the responsive interface rework of the whole site.
+  - Updating the landing page for a new design.
 
+---
 
-**[Ricetorun.com](https://www.ricetorun.com/)**, Chinese food delivery platform, Owner
+**[Ricetorun.com](https://www.ricetorun.com/)**, Chinese food delivery platform in France, Owner
 
 *March 2015 - present*
 
@@ -58,30 +73,41 @@ Rails 5 (for sure), Devise (Authentication), minitest (Testing), sidekiq (Backgr
 
 ### Open Source
 
+---
+
 **[Leonids](https://github.com/renyuanz/leonids)**, Owner
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/renyuanz/leonids" data-icon="octicon-star" data-count-href="/renyuanz/leonids/stargazers" data-count-api="/repos/renyuanz/leonids#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star renyuanz/leonids on GitHub">Star</a>
 
-A basic and clean [Jekyll](https://jekyllrb.com/) blog theme.
+A basic and clean [Jekyll](https://jekyllrb.com/) blog theme. (btw. this blog is using Leonids theme)
+
+### Education
+
+---
+
+- *2013-2016*, Master degree, MIAGE (or [Business Informatics](https://en.wikipedia.org/wiki/Master_of_Business_Informatics)), University of Aix-Marseille, France.
+- *2011-2013*, [Licence](https://en.wikipedia.org/wiki/Licence_Master_Doctorat) degree, Economics and management, University of Aix-Marseille, France.
 
 ### Skills
 
+---
+
 - **Server-Side & Database**
   - `****`  Ruby (Ruby on Rails)
-  - `***`   PHP (Symfony)
+  - `****`   PHP (Symfony)
   - `**`    Java, J2EE
   - `***`   Nginx
   - `****`  MySQL, Postgresql
   - `***`   Redis
   - `**`    Docker
 - **Client-Side**
-  - `***`   HTML5, CSS3, Javascript, jQuery
+  - `****`   HTML5, CSS3, Javascript, jQuery
   - `***`   React.js
-  - `**`    Vue.js
-  - `**`    ES6
-  - `**`    npm, yarn
-  - `*`     Webpack
+  - `****`    Vue.js
+  - `****`    ES6
+  - `***`    npm, yarn
+  - `**`     Webpack
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
